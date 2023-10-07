@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RudeNero
 - 👀 I’m interested in Games, IT and geek things!
-- 🌱 I’m currently learning JavaScript and Angular
+- 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me on instagram: @_rude.rudy 
 
 <!---
